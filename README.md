@@ -46,4 +46,4 @@ Il progetto implementa metodologie analitiche sofisticate, suddivise in quattro 
 
 ---
 **Formazione:** Progetto certificato da **ProfessionAI** e **Alteredu**.
-**Autore:** [Massimiliano Izzo] – BI & Data Storytelling Specialist
+**Autore:** [Massimiliano Izzo](https://linkedin.com/in/massimilianoizzo) – BI & Data Storytelling Specialist
